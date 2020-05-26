@@ -10,9 +10,11 @@ This is the **Main Screen**
 _________________________________________________________________________________________
 
 Adding a **Card** <br/>
+
 ![Adding a Card](card-adding.png)
 _________________________________________________________________________________________
 
 Adding **Multiple Cards** and Displaying their **Companies**
+
 ![Adding Multiple Cards and Displaying their Companies](multiple-cards.png)
 _________________________________________________________________________________________
