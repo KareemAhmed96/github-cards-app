@@ -9,7 +9,7 @@ This is the **Main Screen**
 ![Main Screen](main-screen.png)
 
 
-Adding a Card
+Adding a **Card**
 ![Adding a Card](card-adding.png)
 
 
